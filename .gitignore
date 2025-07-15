@@ -29,3 +29,13 @@
 *.sn*
 *.sa*
 *.sg1
+
+# pyboy files
+pokeblue.gbc.*
+pokered.gbc.*
+pokeblue_debug.gbc.*
+pokeblue_debug.gbc
+pokered.gbc
+
+
+*.gbc
