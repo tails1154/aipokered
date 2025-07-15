@@ -1,3 +1,14 @@
+# aipokered
+
+pokemon red/blue (tested with the blue rom) but ai generated the music
+
+
+
+
+
+
+
+
 # Pokémon Red and Blue [![Build Status][ci-badge]][ci]
 
 This is a disassembly of Pokémon Red and Blue.
